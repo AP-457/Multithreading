@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Implementating Threads/Implementating Threads.iml" filepath="$PROJECT_DIR$/Implementating Threads/Implementating Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Implementing Thread Sleep Method/Implementing Thread Sleep Method.iml" filepath="$PROJECT_DIR$/Implementing Thread Sleep Method/Implementing Thread Sleep Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Implementing Threads/Implementing Threads.iml" filepath="$PROJECT_DIR$/Implementing Threads/Implementing Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Multithreading.iml" filepath="$PROJECT_DIR$/.idea/Multithreading.iml" />
     </modules>
   </component>
