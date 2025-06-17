@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Implementing Thread Join Method/Implementing Thread Join Method.iml" filepath="$PROJECT_DIR$/Implementing Thread Join Method/Implementing Thread Join Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Implementing Thread Sleep Method/Implementing Thread Sleep Method.iml" filepath="$PROJECT_DIR$/Implementing Thread Sleep Method/Implementing Thread Sleep Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Implementing Thread Synchronization/Implementing Thread Synchronization.iml" filepath="$PROJECT_DIR$/Implementing Thread Synchronization/Implementing Thread Synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Implementing Threads/Implementing Threads.iml" filepath="$PROJECT_DIR$/Implementing Threads/Implementing Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Implementing Wait-Notify-Notify All/Implementing Wait-Notify-Notify All.iml" filepath="$PROJECT_DIR$/Implementing Wait-Notify-Notify All/Implementing Wait-Notify-Notify All.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Multithreading.iml" filepath="$PROJECT_DIR$/.idea/Multithreading.iml" />
     </modules>
   </component>
