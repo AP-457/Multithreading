@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Incrementing a shared counter by 1/Incrementing a shared counter by 1.iml" filepath="$PROJECT_DIR$/Incrementing a shared counter by 1/Incrementing a shared counter by 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Incrementing a shared counter by 1 using synchronization/Incrementing a shared counter by 1 using synchronization.iml" filepath="$PROJECT_DIR$/Incrementing a shared counter by 1 using synchronization/Incrementing a shared counter by 1 using synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Multithreading.iml" filepath="$PROJECT_DIR$/.idea/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer Consumer Problem/Producer Consumer Problem.iml" filepath="$PROJECT_DIR$/Producer Consumer Problem/Producer Consumer Problem.iml" />
     </modules>
   </component>
 </project>
