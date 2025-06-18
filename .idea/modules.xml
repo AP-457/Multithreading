@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Implementing Threads/Implementing Threads.iml" filepath="$PROJECT_DIR$/Implementing Threads/Implementing Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Implementing Wait-Notify-Notify All/Implementing Wait-Notify-Notify All.iml" filepath="$PROJECT_DIR$/Implementing Wait-Notify-Notify All/Implementing Wait-Notify-Notify All.iml" />
       <module fileurl="file://$PROJECT_DIR$/Incrementing a shared counter by 1/Incrementing a shared counter by 1.iml" filepath="$PROJECT_DIR$/Incrementing a shared counter by 1/Incrementing a shared counter by 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Incrementing a shared counter by 1 using synchronization/Incrementing a shared counter by 1 using synchronization.iml" filepath="$PROJECT_DIR$/Incrementing a shared counter by 1 using synchronization/Incrementing a shared counter by 1 using synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Multithreading.iml" filepath="$PROJECT_DIR$/.idea/Multithreading.iml" />
     </modules>
   </component>
